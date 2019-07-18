@@ -1,0 +1,4 @@
+{IMPIEGATO 'Emanuele'}
+[SCATOLE INVIATE]
+Mittente3	Destinatario3	58.0	Grecia	85.0
+Mittente4	Destinatario4	23.0	Grecia	12.0

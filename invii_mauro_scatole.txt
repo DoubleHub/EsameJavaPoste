@@ -1,0 +1,4 @@
+{IMPIEGATO 'Mauro'}
+[SCATOLE INVIATE]
+Mittente3	Destinatario3	1800.0	Grecia	687.0
+Mittente4	Destinatario4	1400.0	Grecia	4244.0

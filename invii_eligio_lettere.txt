@@ -1,0 +1,5 @@
+{IMPIEGATO 'Eligio'}
+[LETTERE INVIATE]
+TestMittente	TestDestinatario	90.0	Italia
+TestMittente2	TestDestinatario2	83.0	Marocco
+TestMittente3	TestDestinatario3	23.0	Francia 100

@@ -1,0 +1,4 @@
+{IMPIEGATO 'Gianfranco'}
+[LETTERE INVIATE]
+Mittente1	Destinatario1	24.0	Spagna
+Mittente2	Destinatario2	14.0	Egitto

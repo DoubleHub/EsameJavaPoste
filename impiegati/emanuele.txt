@@ -1,0 +1,4 @@
+Mittente1	Destinatario1	10	Spagna
+Mittente2	Destinatario2	53	Egitto
+Mittente3	Destinatario3	58	Grecia	85
+Mittente4	Destinatario4	23	Grecia	12

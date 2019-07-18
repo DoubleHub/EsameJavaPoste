@@ -1,0 +1,4 @@
+{IMPIEGATO 'Gianfranco'}
+[SCATOLE INVIATE]
+Mittente3	Destinatario3	247.0	Grecia	42.0
+Mittente4	Destinatario4	14.0	Grecia	14.0

@@ -1,0 +1,3 @@
+TestMittente	TestDestinatario	90	Italia
+TestMittente2	TestDestinatario2	83	Marocco
+TestMittente3	TestDestinatario3	23	Francia 100

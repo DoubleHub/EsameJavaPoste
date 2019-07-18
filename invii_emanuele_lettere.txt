@@ -1,0 +1,4 @@
+{IMPIEGATO 'Emanuele'}
+[LETTERE INVIATE]
+Mittente1	Destinatario1	10.0	Spagna
+Mittente2	Destinatario2	53.0	Egitto

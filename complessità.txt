@@ -1,0 +1,22 @@
+Complessità computazionale metodo Impiegato::stampaSequenzaInvio(String, String)
+
++1 String percorsoLettere
++1 String percorsoScatole
++1 init pwl
++1 pwl.println
++1 pwl.println
++1 lettereInviate forEach init
++n lettereInviate forEach control
++n lettereInviate forEach increment
++n lettereInviate forEach pwl.println
++1 pwl.close
++1 init pws
++1 pws.println
++1 pws.println
++1 scatoleInviate forEach init
++n scatoleInviate forEach control
++n scatoleInviate forEach increment
++n scatoleInviate forEach pws.println
++1 pws.close
+
+O(n) = 12 + 6n

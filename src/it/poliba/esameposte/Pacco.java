@@ -2,10 +2,10 @@ package it.poliba.esameposte;
 
 public abstract class Pacco {
 
-    private String mittente;
-    private String destinatario;
-    private String statoDestinazione;
-    private float costoSpedizione;
+    protected String mittente;
+    protected String destinatario;
+    protected String statoDestinazione;
+    protected float costoSpedizione;
 
     public Pacco(String mittente, String destinatario, String statoDestinazione, float costoSpedizione) {
         this.mittente = mittente;
